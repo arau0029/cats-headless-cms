@@ -3,7 +3,6 @@
         <img v-bind:src="`${blok.image.filename}`" alt="">
         <h2>{{ blok.title }}</h2>
         <p>{{ blok.description }}</p>
-        <a>Read more</a>
     </div>
 
 </template>
